@@ -1,4 +1,6 @@
 alfred-solarzied
 ================
 
-Solarized color scheme for Alfred.app. Made with love. Fork & pull if you found anything to improve
+http://ethanschoonover.com/solarized - Solarized! color scheme for Alfred.app. Made with love. Fork & pull if you found anything to improve
+
+Solarized repo: https://github.com/altercation/solarized
